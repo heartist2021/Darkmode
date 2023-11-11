@@ -1,0 +1,17 @@
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.faq-container.dark-mode {
+  background-color: #222;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.faq-question.dark-mode {
+  background-color: #0066cc;
+}
+
+.faq-question.dark-mode:hover {
+  background-color: #005bb5;
+}
